@@ -37,7 +37,7 @@ export const themes = [
     },
     //all you need to do is to change values to create a light theme
     //dont change the variable names. Remember, to change the theme you need to
-    //use the useThemeUpdateContext and change the state value
+    //use the useThemeUpdateContext and change the state value and set it to the desired theme
     /*{
         name: 'light',
         colorBg: '#252525',
